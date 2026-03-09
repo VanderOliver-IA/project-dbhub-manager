@@ -1,0 +1,1 @@
+<?php echo "<html><head><title>SBHUB Manager</title></head><body><h1>Connecting to SBHUBd</h1><a href='https://www.adminer.org/static/download/4.8.1/adminer-4.8.1.php'>Download Adminer</a></body></html>"; ?>
